@@ -1,5 +1,5 @@
 # MaquinaTuring---Java
-
+Esse projeto é uma simulação da Máquina de Turing
 ## Sobre a Máquina de Turing
 Segundo Menezes [1999] a Máquina de Turing, proposta por Alan Turing em 1936, é universalmente conhecida e aceita como formalização de algoritmo. Trata-se de um mecanismo simples que formaliza a ideia de uma pessoa que realiza cálculos. Lembra, e muito, os computadores atuais, embora tenha sido proposta anos antes do primeiro computador digital. Apesar de sua simplicidade, o modelo Máquina de Turing possui, no mínimo, o mesmo poder computacional de qualquer computador de propósito geral.
 
